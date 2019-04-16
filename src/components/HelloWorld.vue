@@ -11,7 +11,7 @@
 
 <script>
 
-  import Child from './Child'
+import Child from './Child'
 
 export default{
   name: 'HelloWorld',
